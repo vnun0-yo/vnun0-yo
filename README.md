@@ -9,10 +9,20 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+* 🏴‍☠️ CTF Challenges
+* 🔐 Cybersecurity
+* 🕵️ Penetration Testing
+* 💻 Programming
+* ⚙️ Building My Own Tools
+* 🐧 Linux
+* 🪟 Windows
+* 🌐 Web Security
+* 🧩 Problem Solving
+* 🏆 Competitive CTFs
+* 🔧 Automation & Scripting
+* 📚 Learning New Technologies
+## Programming Languages I Like
+C / C++ / Python
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
