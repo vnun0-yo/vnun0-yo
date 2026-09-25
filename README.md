@@ -1,10 +1,7 @@
-
-
-
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
